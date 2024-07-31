@@ -1,4 +1,8 @@
-Abstract
+Smart irrigation system
+
+ The Smart Irrigation System leverages IoT technology to provide continuous monitoring of soil moisture, temperature, and humidity. The  aim of the Smart Irrigation System project is to develop a real-time monitoring of soil moisture, temperature, and humidity. Ultimately, the goal is to promote sustainable farming practices and conserve water resources while maximizing crop yield.
+ 
+ Abstract
 
 The Smart Irrigation System is an advanced iot based project which continuously monitors soil moisture, temperature, and humidity using sensors.Integrated with a GSM module, the system sends real-time data and alerts via SMS directly to farmers, enabling remote monitoring and timely action.
 
