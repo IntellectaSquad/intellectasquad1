@@ -16,6 +16,8 @@ Hardware components
 
     1.Arduino uno 
 2. YL 69 soil moisture sensor
-3. Temperature and humidity sensor
-4. Gsm module 
-5. Lcd(Liquid crystal Display) Display
+3. ![image](https://github.com/user-attachments/assets/01121b67-1af4-4a27-815a-1d8317be664d)
+
+4. Temperature and humidity sensor
+5. Gsm module 
+6. Lcd(Liquid crystal Display) Display
